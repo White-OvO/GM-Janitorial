@@ -18,5 +18,10 @@ python3 -m http.server 8000
 
 1. Repo Settings → Pages
 2. Source: Deploy from a branch → `main` → `/ (root)`
-3. Save — the site will be published at `https://<username>.github.io/GM-Janitorial/`
+3. Save — the site will be published at `https://<username>.github.io/gm-janitorial/`
+
+Note: GitHub Pages project URLs are case-sensitive — keep the repo name lowercase so the
+link still resolves if it's ever typed, texted, or auto-formatted in lowercase (mobile
+browsers commonly do this).
+
 <img width="1374" height="1145" alt="Sep 10, 2026, 06_14_21 PM" src="https://github.com/user-attachments/assets/e01ffa1a-e9cc-4a5c-88fb-708fc113940b" />
